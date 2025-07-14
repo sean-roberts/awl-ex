@@ -20,5 +20,5 @@ export const asyncWorkloadConfig: AsyncWorkloadConfig = {
         return '0s'
     }
   },
-  events: ['say-hello']
+  events: ['say-hello-1']
 }
